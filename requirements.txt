@@ -1,0 +1,11 @@
+numpy
+scipy
+torch
+matplotlib
+seaborn
+scikit-learn
+h5py
+pywavelets
+einops
+pprintpp
+torch-geometric
